@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# fourtyfy 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is my attempt to create a job board for people over 40 re-entering the job market or making a career change
 
 ## Available Scripts
 
